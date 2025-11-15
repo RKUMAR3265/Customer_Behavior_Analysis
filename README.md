@@ -3,24 +3,15 @@ Data Analytics Project – End-to-End Workflow
 
 This project demonstrates a complete data analytics lifecycle, including loading and analyzing data in Python, cleaning and transforming datasets, running SQL queries on relational databases, building a Power BI dashboard, and creating a final report using Gamma.
 
-Overview
-
+Overview:
 This end-to-end data analytics project covers:
-
 Loading a dataset using Python (Pandas)
-
 Performing Exploratory Data Analysis (EDA)
-
 Cleaning and preparing data for analysis
-
 Running SQL queries in PostgreSQL / MySQL / SQL Server
-
 Building an interactive Power BI Dashboard
-
 Creating a professional Analytics Report
-
 Presenting insights using Gamma App (AI-powered PPT)
-
 The goal is to extract meaningful insights, visualize trends, and present results in a clear, business-friendly format.
 
 Dataset
